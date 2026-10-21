@@ -1,2 +1,3 @@
 a = "Hello, World!"
-print(a)
+print(a[:5])
+print(a[7:])
