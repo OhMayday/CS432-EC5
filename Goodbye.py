@@ -1,0 +1,2 @@
+a = "Goodbye."
+print(a)
