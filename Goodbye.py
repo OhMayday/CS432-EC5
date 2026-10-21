@@ -1,2 +1,2 @@
-a = "Goodbye."
+a = "Goodbye ;-;"
 print(a)
